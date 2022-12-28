@@ -1,0 +1,126 @@
+.exit
+feeAccount
+const feeAccount = await marketplace.feeAccount()
+feePercent
+const feePercent = await marketplace.feePercent()
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0")
+.exit
+symbol
+const symbol = await contract.symbol()
+name
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+contract
+console
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+.exit
+contract
+const feeCount = await marketplace.feeCount()
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0")
+.exit
+const marketplace = await ethers.getContractAt("Marketplace","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+const feeAccount = await marketplace.feeAccount()
+feeAccount
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+feeAccount
+const feeAccount = await marketplace.feeAccount()
+feeCount
+const feeCount = await marketplace.feeCount()
+feePercent
+const feePercent = await marketplace.feePercent()
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0")
+.exit
+await ethers.getContractAt("Marketplace","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+.exit
+const feeCount = await marketplace.feeCount
+const feeCount = await marketplace.feeCount()
+feePercent
+const feePercent = await marketplace.feePercent
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace","0x5FC8d32690cc91D4c39d9d3abcBD16989F875707")
+const marketplace
+.exit
+symbol
+const symbol = await contract.symbol()
+name
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+console.Contract
+console.contract
+contract
+console
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const tokenCount = await contract.tokenCount()
+console.Contract
+console.contract
+console
+contract
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers.getContractAt("NFT"," 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const tokenCount = await contract.tokenCount()
+ const tokenCount = await contract.tokenCoun
+const tokenCount = await contract.tokenCount(_)
+console.Contract
+console.contract
+contract
+console
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+ npx hardhat run src/backend/scripts/deploy.js --network localhost
+const tokenCount = await contract.tokenCount()
+contract
+console
+ const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const tokenCount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const tokenCount = await contract.tokenCount()
+contract
+console
+console Contract
+console.Contract
+console contract
+console.contract
+console
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const tokencount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+ const tokencount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const tokencount = await contract.tokenCount()
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+console contract
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+nft_marketplace
+ERC721URIStorage 
+IERC721 _nft
+variablename
+variable name
+nft console contract;
+nft console contract
+NFT contract
+variable name console contract
+variablename console contract
+const contract = await ethers.getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract = await ethers getContractAt("NFT",0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512)
+const contract = await ethers getContractAt("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512") 
+const contracts = await ethers getContracts@("NFT","0x413cCe0582EBE1C6957D4F9CdcbD183AD879277f")
+const contracts = await ethers getContracts@("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+Uncaught SyntaxError: Missing initializer in const declaration
+const contracts =  await ethers getContract@("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contracts g await ethers getContracts@("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contracts = await ethers getContracts@("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const console = await ethers getContracts
+const contracts - await ethers getContracts@("NFT","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
